@@ -2,4 +2,4 @@
 - 👀 I’m interested in computers and software
 - 🌱 I’m currently learning electronics and communication engineering
 - I'm also learning cs50 course by harvard online
-- 📫 How to reach me magmacranky1@gmail.com
+- 📫 How to reach me: nihalnavas123@gmail.com
